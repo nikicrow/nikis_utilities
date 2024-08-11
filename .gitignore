@@ -1,0 +1,11 @@
+# venv
+nikiutilvenv/
+
+# build
+build/
+
+# dist
+dist/
+
+# egg
+nikilib.egg-info/
